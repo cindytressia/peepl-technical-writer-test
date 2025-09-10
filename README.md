@@ -110,11 +110,19 @@ End
 
 ****Langkah Algoritma :****
 Mulai program.
+
 Masukkan jumlah suku Fibonacci yang ingin ditampilkan (n).
+
 Tampilkan teks: "Deret Fibonacci hingga n adalah:".
+
 Ulangi proses dari i = 0 hingga i < n:
+
 Jika i = 0 atau i = 1 → nilai suku = i.
+
 Jika i > 1 → nilai suku = jumlah dua suku sebelumnya.
+
 Cetak hasil setiap suku.
+
 Ulangi hingga semua suku selesai ditampilkan.
+
 Program selesai.
