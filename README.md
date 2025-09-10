@@ -5,34 +5,34 @@
 
 ## Pseudocode
 Start
-// Persiapan
+Persiapan
 Cek tekanan ban
 Cek fungsi rem depan & belakang
 Atur tinggi sadel
 Pasang helm (opsional)
 
-// Posisi awal
+Posisi awal
 Berdiri di sisi sepeda
 Posisikan pedal kanan di jam "2" (sekitar 45–60°) sebagai pedal start
 Tangan pegang setang, pandangan ke depan
 
-// Mulai mengayuh
+Mulai mengayuh
 Naik ke sadel dengan seimbang
 Dorong pedal start ke bawah untuk memberi dorongan awal
 Letakkan kaki kiri ke pedal satunya dan mulai kayuh bergantian (kanan-kiri)
 
-// Kendali & keseimbangan
+Kendali & keseimbangan
 Jaga pandangan jauh ke depan
 Pegang setang rileks, koreksi arah
 Jika kecepatan rendah → tambah kayuhan
 
-// Manuver
+Manuver
 Jika perlu belok:
 Kurangi kecepatan
 Condongkan sepeda ke arah belok
 Arahkan setang halus
 
-// Berhenti
+Berhenti
 Jika ingin berhenti:
 Kurangi kayuhan
 Rem belakang dulu, lalu tambah rem depan
