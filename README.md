@@ -65,7 +65,7 @@ End
 
 
 
-Langkah Algoritma
+****Langkah Algoritma****
 
 Mulai program.
 
@@ -108,7 +108,7 @@ Start
 
 End
 
-Langkah Algoritma :
+****Langkah Algoritma :****
 Mulai program.
 Masukkan jumlah suku Fibonacci yang ingin ditampilkan (n).
 Tampilkan teks: "Deret Fibonacci hingga n adalah:".
