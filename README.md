@@ -52,6 +52,7 @@ End
 **pseudocode algoritma silinder**
 
 Start
+
   Deklarasi variabel r, t, luas
   Input nilai jari-jari tabung (r)
   Input nilai tinggi tabung (t)
@@ -59,7 +60,9 @@ Start
   Hitung luas ← 2 * π * r * (r + t)
 
   Tampilkan "Luas permukaan tabung = ", luas
+  
 End
+
 Langkah Algoritma
 
 Mulai program.
