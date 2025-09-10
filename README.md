@@ -50,6 +50,7 @@ End
 
 # Jawaban - Nomor 2
 **pseudocode algoritma silinder**
+
 Start
   Deklarasi variabel r, t, luas
   Input nilai jari-jari tabung (r)
