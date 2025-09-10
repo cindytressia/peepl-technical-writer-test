@@ -51,29 +51,60 @@ End
 # Jawaban - Nomor 2
 **pseudocode algoritma silinder**
 Start
-  Input r (jari-jari)
-  Input t (tinggi tabung)
+  Deklarasi variabel r, t, luas
+  Input nilai jari-jari tabung (r)
+  Input nilai tinggi tabung (t)
 
-  luas = 2 * π * r * (r + t)
+  Hitung luas ← 2 * π * r * (r + t)
 
-  Output luas
+  Tampilkan "Luas permukaan tabung = ", luas
 End
+Langkah Algoritma
+
+Mulai program.
+
+Siapkan variabel r (jari-jari), t (tinggi), dan luas.
+
+Masukkan nilai jari-jari tabung.
+
+Masukkan nilai tinggi tabung.
+
+Hitung luas permukaan tabung dengan rumus:
+luas = 2 * π * r * (r + t)
+luas=2×π×r×(r+t)
+
+Tampilkan hasil perhitungan luas permukaan tabung.
+
+Selesai.
+
 
 
 # Jawaban - Nomor 3 
 **Dokumen bisnis**
-Mulai
-  Masukkan angka n (jumlah suku deret Fibonacci)
+Start
+  Input n (jumlah suku Fibonacci)
 
-  Tampilkan: "Deret Fibonacci hingga n adalah:"
+  Output "Deret Fibonacci hingga n adalah:"
 
-  Untuk setiap i dari 0 sampai n-1 lakukan:
-      Jika i = 0 atau i = 1:
-          hasil = i
-      Jika tidak:
-          hasil = (suku sebelumnya) + (suku sebelum-sebelumnya)
+  For i = 0 to n-1 do
+      If i <= 1 then
+          hasil ← i
+      Else
+          hasil ← suku(i-1) + suku(i-2)
+      EndIf
 
-      Tampilkan hasil
+      Output hasil
+  EndFor
 
-Selesai
+End
 
+Langkah Algoritma :
+Mulai program.
+Masukkan jumlah suku Fibonacci yang ingin ditampilkan (n).
+Tampilkan teks: "Deret Fibonacci hingga n adalah:".
+Ulangi proses dari i = 0 hingga i < n:
+Jika i = 0 atau i = 1 → nilai suku = i.
+Jika i > 1 → nilai suku = jumlah dua suku sebelumnya.
+Cetak hasil setiap suku.
+Ulangi hingga semua suku selesai ditampilkan.
+Program selesai.
