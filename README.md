@@ -1,5 +1,5 @@
 
-# 📘 Jawaban Tugas Tekstual – IT Technical Writer Test  
+# 📘 IT Technical Writer Test  
 
 ---
 
