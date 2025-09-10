@@ -1,96 +1,89 @@
-# Jawaban - Nomor 1  
-**Algoritma Mengoperasikan Sepeda Ontel/Kayuh**
+
+# 📘 Jawaban Tugas Tekstual – IT Technical Writer Test  
 
 ---
 
-## Pseudocode
+## 🔹 Nomor 1 – Algoritma Mengoperasikan Sepeda Ontel/Kayuh  
+
+### Pseudocode
+```
 Start
-Persiapan
-Cek tekanan ban
-Cek fungsi rem depan & belakang
-Atur tinggi sadel
-Pasang helm (opsional)
 
-Posisi awal
-Berdiri di sisi sepeda
-Posisikan pedal kanan di jam "2" (sekitar 45–60°) sebagai pedal start
-Tangan pegang setang, pandangan ke depan
+  Persiapan:
+    - Cek tekanan ban
+    - Cek fungsi rem depan & belakang
+    - Atur tinggi sadel
+    - Pasang helm (opsional)
 
-Mulai mengayuh
-Naik ke sadel dengan seimbang
-Dorong pedal start ke bawah untuk memberi dorongan awal
-Letakkan kaki kiri ke pedal satunya dan mulai kayuh bergantian (kanan-kiri)
+  Posisi awal:
+    - Berdiri di sisi sepeda
+    - Posisikan pedal kanan di jam "2" (sekitar 45–60°) sebagai pedal start
+    - Tangan pegang setang, pandangan ke depan
 
-Kendali & keseimbangan
-Jaga pandangan jauh ke depan
-Pegang setang rileks, koreksi arah
-Jika kecepatan rendah → tambah kayuhan
+  Mulai mengayuh:
+    - Naik ke sadel dengan seimbang
+    - Dorong pedal start ke bawah untuk memberi dorongan awal
+    - Letakkan kaki kiri ke pedal satunya dan mulai kayuh bergantian (kanan–kiri)
 
-Manuver
-Jika perlu belok:
-Kurangi kecepatan
-Condongkan sepeda ke arah belok
-Arahkan setang halus
+  Kendali & keseimbangan:
+    - Jaga pandangan jauh ke depan
+    - Pegang setang rileks, koreksi arah
+    - Jika kecepatan rendah → tambah kayuhan
 
-Berhenti
-Jika ingin berhenti:
-Kurangi kayuhan
-Rem belakang dulu, lalu tambah rem depan
-Turunkan satu kaki ke tanah
-Turun dari sepeda dengan aman
+  Manuver:
+    Jika perlu belok:
+      - Kurangi kecepatan
+      - Condongkan sepeda ke arah belok
+      - Arahkan setang halus
+
+  Berhenti:
+    Jika ingin berhenti:
+      - Kurangi kayuhan
+      - Rem belakang dulu, lalu tambah rem depan
+      - Turunkan satu kaki ke tanah
+      - Turun dari sepeda dengan aman
+
 End
+```
+
+### Flowchart
+![Flowchart Sepeda](https://github.com/user-attachments/assets/c136241b-9836-4d3b-a9fb-f567878f512a)
 
 ---
 
-## Flowchart (ASCII)
+## 🔹 Nomor 2 – Algoritma Menghitung Luas Kulit Tabung  
 
-
-<img width="631" height="931" alt="Image" src="https://github.com/user-attachments/assets/c136241b-9836-4d3b-a9fb-f567878f512a" />
-
-
-# Jawaban - Nomor 2
-**pseudocode algoritma silinder**
-
+### Pseudocode
+```
 Start
-
   Deklarasi variabel r, t, luas
   Input nilai jari-jari tabung (r)
   Input nilai tinggi tabung (t)
 
-  Hitung luas ← 2 * π * r * (r + t)
+  luas ← 2 * π * r * (r + t)
 
-  Tampilkan "Luas permukaan tabung = ", luas
-  
+  Output "Luas permukaan tabung = ", luas
 End
+```
 
+### Langkah Algoritma
+1. Mulai program.  
+2. Siapkan variabel `r` (jari-jari), `t` (tinggi), dan `luas`.  
+3. Masukkan nilai jari-jari tabung.  
+4. Masukkan nilai tinggi tabung.  
+5. Hitung luas permukaan tabung dengan rumus:  
 
+   **luas = 2 * π * r * (r + t)**  
 
-****Langkah Algoritma****
+6. Tampilkan hasil perhitungan luas permukaan tabung.  
+7. Program selesai.  
 
-Mulai program.
+---
 
+## 🔹 Nomor 3 – Algoritma Deret Fibonacci  
 
-Siapkan variabel r (jari-jari), t (tinggi), dan luas.
-
-Masukkan nilai jari-jari tabung.
-
-Masukkan nilai tinggi tabung.
-
-Hitung luas permukaan tabung dengan rumus:
-
-luas = 2 * π * r * (r + t)
-
-luas=2×π×r×(r+t)
-
-Tampilkan hasil perhitungan luas permukaan tabung.
-
-
-Selesai.
-
-
-
-# Jawaban - Nomor 3 
-**Dokumen bisnis**
+### Pseudocode
+```
 Start
   Input n (jumlah suku Fibonacci)
 
@@ -105,24 +98,16 @@ Start
 
       Output hasil
   EndFor
-
 End
+```
 
-****Langkah Algoritma :****
-Mulai program.
-
-Masukkan jumlah suku Fibonacci yang ingin ditampilkan (n).
-
-Tampilkan teks: "Deret Fibonacci hingga n adalah:".
-
-Ulangi proses dari i = 0 hingga i < n:
-
-Jika i = 0 atau i = 1 → nilai suku = i.
-
-Jika i > 1 → nilai suku = jumlah dua suku sebelumnya.
-
-Cetak hasil setiap suku.
-
-Ulangi hingga semua suku selesai ditampilkan.
-
-Program selesai.
+### Langkah Algoritma
+1. Mulai program.  
+2. Masukkan jumlah suku Fibonacci yang ingin ditampilkan (`n`).  
+3. Tampilkan teks: *"Deret Fibonacci hingga n adalah:"*.  
+4. Lakukan perulangan dari `i = 0` sampai `i < n`:  
+   - Jika `i = 0` atau `i = 1` → nilai suku = `i`.  
+   - Jika `i > 1` → nilai suku = jumlah dua suku sebelumnya.  
+5. Cetak hasil setiap suku.  
+6. Ulangi sampai semua suku selesai ditampilkan.  
+7. Program selesai.  
