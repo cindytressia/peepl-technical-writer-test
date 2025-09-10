@@ -66,14 +66,25 @@ End
 
 
 Langkah Algoritma
+
 Mulai program.
+
+
 Siapkan variabel r (jari-jari), t (tinggi), dan luas.
+
 Masukkan nilai jari-jari tabung.
+
 Masukkan nilai tinggi tabung.
+
 Hitung luas permukaan tabung dengan rumus:
+
 luas = 2 * π * r * (r + t)
+
 luas=2×π×r×(r+t)
+
 Tampilkan hasil perhitungan luas permukaan tabung.
+
+
 Selesai.
 
 
