@@ -38,8 +38,8 @@ Kurangi kayuhan
 Rem belakang dulu, lalu tambah rem depan
 Turunkan satu kaki ke tanah
 Turun dari sepeda dengan aman
-
 End
+
 ---
 
 ## Flowchart (ASCII)
@@ -76,3 +76,4 @@ Mulai
       Tampilkan hasil
 
 Selesai
+
